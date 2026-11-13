@@ -8,4 +8,4 @@
 ### 3. UPDATE Query
 
 ### 4. Final Output
-C:\Users\PUSHPARAJ\OneDrive\Pictures\Screenshots
+![Project Screenshot](C:\Users\PUSHPARAJ\OneDrive\Pictures\Screenshots)
